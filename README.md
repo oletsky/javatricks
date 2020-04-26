@@ -10,4 +10,5 @@ Tricks and freak coding in Java
 7. When a value is not equal to itself
 8. A strange function similar to the constructor
 9. How to call a private method of a class
+10. When true equals false
 
