@@ -1,0 +1,8 @@
+File dir = new File("C:\\newdir");
+dir.mkdir();
+//Не пробуйте повторити це
+while (true) {
+File d1 = new File(dir, "newdir");
+d1.mkdir();
+dir=d1;
+}
